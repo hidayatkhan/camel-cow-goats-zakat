@@ -1,0 +1,16 @@
+table{
+    border: solid 3px black;
+    box-sizing: border-box;
+    
+}
+td{
+    border: solid 1px black;
+    font-size: 24px;
+}
+th{
+    border: solid 1px black;
+    font-size: 24px;
+}
+div{
+ display: grid;  place-items:center; 
+}
